@@ -1,7 +1,7 @@
 <img width="1024" height="256" alt="QF Logo" src="https://github.com/user-attachments/assets/0b65d6b4-9d31-4aab-963b-279ef77d5e3a" />
 
 # Quake Fortress HUD
-A minimalistic custom HUD for Open Fortress inspired by Quake aesthetics, designed for a clean and simple layout.
+A minimalistic custom HUD for Open Fortress inspired by Quake Live, designed for a clean and simple layout.
 
 ## Screenshots
 [Quake Fortress HUD](https://imgur.com/gallery/quakefortress-hud-Eb29s8b)
